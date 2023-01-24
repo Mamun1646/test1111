@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'OpenSans';
+    src: url('./../assets/OpenSans/OpenSans-Light.ttf');
+    src: url('./../assets/OpenSans/OpenSans-Medium.ttf');
+    font-weight: 400;
+    font-style: normal;
+    }
+
+.pageUp{
+    position: fixed;
+    display: none;
+}

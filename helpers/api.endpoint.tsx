@@ -1,0 +1,1 @@
+export const USER_ENDPOINT="http://localhost:3001/user"
